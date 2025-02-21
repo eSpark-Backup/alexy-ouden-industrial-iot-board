@@ -11,7 +11,9 @@ Design an ESP32-based PCB for industrial GPIO control and monitoring. The board 
 - Selection of GPIO headers for external components, sensors, and buttons (JTAG headers).  
 - Integrated RTC with battery backup.  
 - Holder for a single 18650 Li-ion battery and integrated charging circuit for battery backup functionality.  
-- USB-C header (90° angled) for programming and debugging.  
+- USB-C header (90° angled) for programming and debugging.
+- RS485 Screw Terminals (A-, B+ and extra GND) with daisy chaining.
+- PoE Ethernet for the ESP32 to allow for Wired and Wireless comms. (suggested standard: 802.3af)
 
 ## Power
 - Input: 12–24V DC.  
