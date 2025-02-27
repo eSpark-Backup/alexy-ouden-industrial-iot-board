@@ -31,7 +31,6 @@ Design an ESP32-based PCB for industrial GPIO control and monitoring. The board 
 - Multiple onboard LEDs for core functionality such as Power, LiPo Charge/Discharge - These should be small to ensure they don’t get confused with the NEOPIXEL output.
 
 ## Additional Notes
-- Compatible with DIN rail brackets for easy mounting in industrial environments.  
 - Example brackets include those with provisions for screw terminals.  
 
 ![image](https://github.com/user-attachments/assets/a0e79a4e-3bb3-42bb-b006-b9aaf7425045)
