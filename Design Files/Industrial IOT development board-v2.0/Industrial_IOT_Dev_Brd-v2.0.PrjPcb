@@ -66,23 +66,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WCWEVJTP
 
 [Document2]
-DocumentPath=Battery-Charging-Sheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WNCHBSFA
-
-[Document3]
 DocumentPath=Controller-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FORAZHWL
 
-[Document4]
+[Document3]
 DocumentPath=Power-Relay-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UVHUJXAC
 
-[Document5]
+[Document4]
 DocumentPath=Terminal-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZRMYGHUV
 
-[Document6]
+[Document5]
 DocumentPath=Digital-Input-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRDBEJOD
 
-[Document7]
+[Document6]
 DocumentPath=Analog-Input-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,24 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMLLEISB
 
-[Document8]
-DocumentPath=Ethernet-PoE-Sheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AYSTHVPJ
-
-[Document9]
+[Document7]
 DocumentPath=RS485-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPPWGEYG
 
-[Document10]
+[Document8]
 DocumentPath=Industrial_IOT_Dev_Brd-v1.0.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=Industrial_IOT_Dev_Brd-v2.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDQKYAEO
 
-[Document12]
+[Document10]
 DocumentPath=Deliverables\Gerber Files\Gerber File.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,8 +218,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=Deliverables\Gerber Files\NC Drill File.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document12]
+DocumentPath=Industrial_IOT_Dev_Brd-v2.0.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
