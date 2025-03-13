@@ -23,7 +23,7 @@ Design an ESP32-based PCB for industrial GPIO control and monitoring. The board 
 
 ## USER INTERFACE
 - Master ON/OFF Switch which cuts all power to all features from the main VCC input.
-- Master ON/OFF switch on the battery rail similar to VCC Master ON/OFF switch.
+- ~Master ON/OFF switch on the battery rail similar to VCC Master ON/OFF switch.~
 - ESP32 Reset push button.
 - Integrated [OLED]( https://thepihut.com/products/1-3-oled-display-module-128x64) display for real-time monitoring and conguration.
 - Rotary Encoder for display navigation with two additional push buttons for ‘select’ and ‘back’.
