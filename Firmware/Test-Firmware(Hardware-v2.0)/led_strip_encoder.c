@@ -85,15 +85,15 @@ esp_err_t rmt_new_led_strip_encoder(const led_strip_encoder_config_t *config, rm
     rmt_bytes_encoder_config_t bytes_encoder_config = {
         .bit0 = {
             .level0 = 1,
-            .duration0 = 0.5 * config->resolution / 1000000, // T0H=0.5us
+            .duration0 = 0.4 * config->resolution / 1000000, // T0H=0.5us
             .level1 = 0,
-            .duration1 = 0.9 * config->resolution / 1000000, // T0L=0.9us
+            .duration1 = 1.0 * config->resolution / 1000000, // T0L=0.9us
         },
         .bit1 = {
             .level0 = 1,
-            .duration0 = 0.9 * config->resolution / 1000000, // T1H=0.9us
+            .duration0 = 1.0 * config->resolution / 1000000, // T1H=0.9us
             .level1 = 0,
-            .duration1 = 0.5 * config->resolution / 1000000, // T1L=0.5us
+            .duration1 = 0.4 * config->resolution / 1000000, // T1L=0.5us
         },
         .flags.msb_first = 1 // WS2812 transfer bit order: G7...G0R7...R0B7...B0
     };
