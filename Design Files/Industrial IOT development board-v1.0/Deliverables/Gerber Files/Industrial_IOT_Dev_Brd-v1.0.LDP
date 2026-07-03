@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\aSim Data\GitHub\alexyouden-industrialiotboard\Design Files\Industrial IOT development board-v1.0\Industrial_IOT_Dev_Brd-v1.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=industrial_iot_dev_brd-v1.0-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=industrial_iot_dev_brd-v1.0-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=industrial_iot_dev_brd-v1.0-rectholes.txt|DrillLayers=gtl,g1,g2,gbl
